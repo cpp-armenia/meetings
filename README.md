@@ -19,6 +19,16 @@ We prefer:
 If you have something matching those criteria, please fill out this [Google Form](https://forms.gle/6HV1S7HxEvNvq27H7).
 And, of course, join the [Telegram group for communication](https://t.me/cpparm).
 
+## Upcoming Gatherings
+
+### 7. December 17, 2022 @ ISTC
+
+1. OS Hypervisors and High-Speed Networking. Rostislav Povelikin, Mellanox 🇮🇱
+2. Distributed Systems at OK.ru. Oleg Anastasjev, OK 🇷🇺
+
+[Eventbrite](https://www.eventbrite.com/e/armenian-c-community-meetup-7-istc-tickets-478590857137).
+[Facebook](https://www.facebook.com/events/823532135430680).
+
 ## Previous Gatherings
 
 ### 6. October 21, 2022 @ AUA

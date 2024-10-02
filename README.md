@@ -21,6 +21,11 @@ And, of course, join the [Telegram group for communication](https://t.me/cpparm)
 
 ## Events
 
+### 9. November 1, 2023 @ AUA
+
+1. What C++23 Brings to us? Dmitry Duka, Nvidia
+2. Basic Optimization Techniques. Ivan Zinkevich, Nvidia
+
 ### 8. September 20, 2023 @ AUA
 
 1. Why Are C++ Builds Slow, and What Can You Do About It? Dmitry Kozhevnikov, JetBrains
@@ -47,7 +52,7 @@ And, of course, join the [Telegram group for communication](https://t.me/cpparm)
 
 ### 5. June 29, 2022 @ ISTC
 
-1. Bindings 101: CPython, cGo, JNI. Ashot Vardanian, Unum [Slides](materials/5.%20Ashot%20Vardanian.pdf)
+1. Bindings 101: CPython, cGo, JNI. Ash Vardanian, Unum [Slides](materials/5.%20Ash%20Vardanian.pdf)
 2. Go and Systems Programming. Alexey Veselovsky, Align Technology [Slides](materials/5.%20Alexey%20Veselovsky.pdf)
 3. Async Programming with C++ Coroutines. Dmitry Duka, Nvidia [Slides](materials/5.%20Dmitry%20Duka.pdf)
 
@@ -57,27 +62,27 @@ And, of course, join the [Telegram group for communication](https://t.me/cpparm)
 ### 4. March 3, 2022 @ TUMO
 
 1. Quick-Bench & Basics of C++ Profiling. Hayk Grigoryan, Siemens [Slides](materials/4.%20Hayk%20Grigoryan.pdf)
-2. Unsafe Math, GCC Attributes, and Nifty Tricks for Google Benchmark. Ashot Vardanian, Unum
+2. Unsafe Math, GCC Attributes, and Nifty Tricks for Google Benchmark. Ash Vardanian, Unum
 
 [Eventbrite](https://www.eventbrite.com/e/armenian-c-community-meetup-4-siemens-tickets-273420988537).
 
 ### 3. January 27, 2022 @ ISTC
 
-1. Learning GPGPU Through Parallel Reductions: From OpenCL, Thrust & CUB To Raw CUDA Kernels & SyCL. Ashot Vardanian, Unum [Slides](materials/3.%20Ashot%20Vardanian.pdf)
+1. Learning GPGPU Through Parallel Reductions: From OpenCL, Thrust & CUB To Raw CUDA Kernels & SyCL. Ash Vardanian, Unum [Slides](materials/3.%20Ash%20Vardanian.pdf)
 
 [Eventbrite](https://www.eventbrite.com/e/armenian-c-community-meetup-3-unum-tickets-247129158967).
 
 ### 2. December 13, 2021 @ ISTC
 
 1. Binary Safety, Code Fuzzing, Static Analyses. Vag Vardanyan, PicsArt [Slides](materials/2.%20Vag%20Vardanyan.pdf)
-2. Evolution: C++11, 14, 17, 20, 23, 26? Ashot Vardanian, Unum [Slides](materials/2.%20Ashot%20Vardanian.pdf)
+2. Evolution: C++11, 14, 17, 20, 23, 26? Ash Vardanian, Unum [Slides](materials/2.%20Ash%20Vardanian.pdf)
 
 [Eventbrite](https://www.eventbrite.com/e/armenian-c-community-meetup-2-unum-tickets-224665429347).
 [YouTube](https://youtu.be/jtttoxkjTIA).
 
 ### 1. December 5, 2020 @ FAST
 
-1. SIMD for Substring Matching using x86 SSE, AVX2, AVX-512 and Arm Neon. Ashot Vardanian, Unum [Slides](materials/1.%20Ashot%20Vardanian.pdf)
+1. SIMD for Substring Matching using x86 SSE, AVX2, AVX-512 and Arm Neon. Ash Vardanian, Unum [Slides](materials/1.%20Ash%20Vardanian.pdf)
 
 [Eventbrite](https://www.eventbrite.com/e/armenian-c-community-meetup-1-tickets-131200465123).
 [YouTube](https://youtu.be/ft51yJ9mDcc).

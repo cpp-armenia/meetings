@@ -23,8 +23,8 @@ And, of course, join the [Telegram group for communication](https://t.me/cpparm)
 
 ### 9. November 1, 2023 @ AUA
 
-1. What C++23 Brings to us? Dmitry Duka, Nvidia
-2. Basic Optimization Techniques. Ivan Zinkevich, Nvidia
+1. What C++23 Brings to us? Dmitry Duka, Nvidia [Slides](materials/9.%20Dmitry%20Duka%20(What%20C%2B%2B23%20brings%20to%20us).pdf)
+2. Basic Optimization Techniques. Ivan Zinkevich, Nvidia [Slides](materials/9.%20Ivan%20Zinkevich%20(Basic%20Optimization%20Techniques).pdf)
 
 ### 8. September 20, 2023 @ AUA
 

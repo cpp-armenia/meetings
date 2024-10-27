@@ -57,9 +57,9 @@ And, of course, join the [Telegram group for communication](https://t.me/cpparm)
 
 ### 5. June 29, 2022 @ ISTC
 
-1. Bindings 101: CPython, cGo, JNI. Ash Vardanian, Unum. [Slides](meetings/blob/main/materials/5.%20Ash%20Vardanian%20(C%2B%2B%20Bindings%20101).pdf)
+1. Bindings 101: CPython, cGo, JNI. Ash Vardanian, Unum. [Slides](materials/5.%20Ash%20Vardanian%20(C%2B%2B%20Bindings%20101).pdf)
 2. Go and Systems Programming. Alexey Veselovsky, Align Technology. [Slides](materials/5.%20Alexey%20Veselovsky.pdf)
-3. Async Programming with C++ Coroutines. Dmitry Duka, Nvidia. [Slides](meetings/blob/main/materials/5.%20Dmitry%20Duka%20(Asynchronous%20Programming%20in%20C%2B%2B).pdf)
+3. Async Programming with C++ Coroutines. Dmitry Duka, Nvidia. [Slides](materials/5.%20Dmitry%20Duka%20(Asynchronous%20Programming%20in%20C%2B%2B).pdf)
 
 [Eventbrite](https://www.eventbrite.com/e/armenian-c-community-meetup-5-unum-tickets-371195735437).
 [YouTube](https://youtu.be/psmfAg1Nc3s).
@@ -80,14 +80,14 @@ And, of course, join the [Telegram group for communication](https://t.me/cpparm)
 ### 2. December 13, 2021 @ ISTC
 
 1. Binary Safety, Code Fuzzing, Static Analyses. Vag Vardanyan, PicsArt. [Slides](materials/2.%20Vag%20Vardanyan.pdf)
-2. Evolution: C++11, 14, 17, 20, 23, 26? Ash Vardanian, Unum. [Slides](meetings/blob/main/materials/2.%20Ash%20Vardanian%20(Language%20Evolution%20to%20C%2B%2B20%20and%20C%2B%2B23).pdf)
+2. Evolution: C++11, 14, 17, 20, 23, 26? Ash Vardanian, Unum. [Slides](materials/2.%20Ash%20Vardanian%20(Language%20Evolution%20to%20C%2B%2B20%20and%20C%2B%2B23).pdf)
 
 [Eventbrite](https://www.eventbrite.com/e/armenian-c-community-meetup-2-unum-tickets-224665429347).
 [YouTube](https://youtu.be/jtttoxkjTIA).
 
 ### 1. December 5, 2020 @ FAST
 
-1. SIMD for Substring Matching using x86 SSE, AVX2, AVX-512 and Arm Neon. Ash Vardanian, Unum. [Slides](meetings/blob/main/materials/1.%20Ash%20Vardanian%20(SIMD%20Computing).pdf)
+1. SIMD for Substring Matching using x86 SSE, AVX2, AVX-512 and Arm Neon. Ash Vardanian, Unum. [Slides](materials/1.%20Ash%20Vardanian%20(SIMD%20Computing).pdf)
 
 [Eventbrite](https://www.eventbrite.com/e/armenian-c-community-meetup-1-tickets-131200465123).
 [YouTube](https://youtu.be/ft51yJ9mDcc).

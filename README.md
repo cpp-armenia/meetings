@@ -23,13 +23,13 @@ And, of course, join the [Telegram group for communication](https://t.me/cpparm)
 
 ### 10. October 26, 2024 @ AUA
 
-1. 10x Faster IO with Linux Kernel Bypass. Ash Vardanian, Unum. [Slides](meetings/blob/main/materials/10.%20Ash%20Vardanian%20(Linux%20Kernel%20Bypass%20with%20io_uring).pdf), [YouTube](https://www.youtube.com/watch?v=o5SC7ryGTV0)
-2. Linux on GPU. Dmitry Duka, Nvidia. [Slides](meetings/blob/main/materials/10.%20Dmitry%20Duka%20(Linux%20on%20GPU).md), [YouTube](https://www.youtube.com/watch?v=h2Jcpu-WkK8)
+1. 10x Faster IO with Linux Kernel Bypass. Ash Vardanian, Unum. [Slides](meetings/10.%20Ash%20Vardanian%20(Linux%20Kernel%20Bypass%20with%20io_uring).pdf), [YouTube](https://www.youtube.com/watch?v=o5SC7ryGTV0)
+2. Linux on GPU. Dmitry Duka, Nvidia. [Slides](meetings/10.%20Dmitry%20Duka%20(Linux%20on%20GPU).md), [YouTube](https://www.youtube.com/watch?v=h2Jcpu-WkK8)
 
 ### 9. November 1, 2023 @ AUA
 
-1. What C++23 Brings to us? Dmitry Duka, Nvidia. [Slides](meetings/blob/main/materials/9.%20Dmitry%20Duka%20(What%20C%2B%2B23%20brings%20to%20us).pdf)
-2. Basic Optimization Techniques. Ivan Zinkevich, Nvidia. [Slides](materials/9.%20Ivan%20Zinkevich%20(Basic%20Optimization%20Techniques).pdf)
+1. What C++23 Brings to us? Dmitry Duka, Nvidia. [Slides](meetings/9.%20Dmitry%20Duka%20(What%20C%2B%2B23%20brings%20to%20us).pdf)
+2. Basic Optimization Techniques. Ivan Zinkevich, Nvidia. [Slides](meetings/9.%20Ivan%20Zinkevich%20(Basic%20Optimization%20Techniques).pdf)
 
 ### 8. September 20, 2023 @ AUA
 
